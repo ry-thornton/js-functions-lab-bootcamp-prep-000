@@ -1,11 +1,13 @@
-function happyHolidays(string)
+function happyHolidays()
 {
   return "Happy holidays!"
 }
 
+var name = document.querySelector(name).innerHTML
+
 function happyHolidaysTo(name)
 {
-  return "Happy holidays, you!"
+  return "Happy holidays, "
 }
 
 function happyHolidayTo(holiday, name)
